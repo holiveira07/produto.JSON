@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nome": "notbook",
+        "marca": "hp",
+        "categoria": "informatica",
+        "preco": 4.999,
+        "quantidadeEmEstoque": 10,
+        "disponivelParaProntaEntrega": true
+    },
+    {
+        "id": 2,
+        "nome": "Smartphone",
+        "marca": "Samsung",
+        "categoria": "Eletrônicos",
+        "preco": 1999.99,
+        "quantidadeEmEstoque": 20,
+        "disponivelParaProntaEntrega": false
+    },
+    {
+        "id": 3,
+        "nome": "Teclado Gamer",
+        "marca": "kumara",
+        "categoria": "inoformatica",
+        "preco": 279.90,
+        "quantidadeEmEstoque": 50,
+        "disponivelParaProntaEntrega": true
+    }
+]
